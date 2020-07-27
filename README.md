@@ -5,9 +5,9 @@ How to use this project
 
 # Set up Linux
 
-apt-get install python mingw-w64-x86_64-python2 mingw-w64-x86_64-gcc bison cvs diffutils git make patch tar texinfo unzip
+apt-get install python bison cvs diffutils git make patch tar texinfo unzip perl
 
-apt-get install base-devel mingw-w64-i686-toolchain mingw-w64-x86_64-toolchain
+apt-get install base-devel
 
 
 # Download the project
